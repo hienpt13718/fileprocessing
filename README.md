@@ -1,5 +1,5 @@
 # fileprocessing
-Read a large csv file with java by some ways
+Read a large CSV file with java in some ways
 Here are some ways to read a large CSV file with java. Also, this project provides a simple way to export data which read in the csv file into pdf by using jasper report.
  * Java version: 11
  * JVM Options: -Xms5G -Xmx5G -XX:NewSize=1024M
